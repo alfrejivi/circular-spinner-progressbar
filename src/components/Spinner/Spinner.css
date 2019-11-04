@@ -1,0 +1,23 @@
+.Spinner {
+    position: relative;
+    width: 100%;
+    padding-bottom: 100%; 
+}
+
+.Spinner-svg{
+	position: absolute;
+	top: 0;
+    left: 0;
+}
+
+.Spinner-text{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 1.5rem;
+  color: #17181a;
+}
+
+.Spinner-circle {
+    transition: stroke-dasharray .3s ease;
+}

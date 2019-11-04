@@ -1,0 +1,26 @@
+.App {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.App-loading{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.App-loading span {
+  color: var(--color-primary);
+  font-size: 1rem;
+  padding: .5rem 0;
+}
+
+.App-widget {
+  padding: 1rem;
+  min-width: 100px;
+}

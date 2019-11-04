@@ -1,0 +1,28 @@
+.ProgressWidget {
+    width: 500px;
+    background-color: var(--color-white);
+    border-radius: 1.5rem;
+    box-shadow: 0 0 12px 0 rgba(0,0,0,0.1), 0 10px 30px 0 rgba(0,0,0,0.2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.ProgressWidget-spinner{
+    width: 60%;
+    padding: 2rem 0;
+}
+
+.ProgressWidget-actions {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem 2rem;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.ProgressWidget-actions button {
+    flex: 1;
+    margin: .5rem
+}
