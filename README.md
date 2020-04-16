@@ -1,6 +1,6 @@
 # Circular Spinner/ProgressBar
 
-Circular Spinner/ProgressBar React Component. [Live Demo](https://confident-haibt-6ff93b.netlify.com/)
+Circular Spinner/ProgressBar React Component. [Live Demo](https://alfrejivi-spinner.netlify.app/)
 
 ## Description
 
