@@ -50,10 +50,14 @@ The component accepts the following props:
 
 ## Contact
 
-Alfredo Jimenez
-alfrejivi@gmail.com
+Freddy Jimenez
+
+[alfrejivi@gmail.com](mailto:alfrejivi@gmail.com)
+
 [alfrejivi.com](https://alfrejivi.com)
+
 [Linkedin](https://www.linkedin.com/in/alfrejivi/)
+
 
 ## Other info
 
