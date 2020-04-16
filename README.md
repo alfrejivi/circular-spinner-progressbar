@@ -1,12 +1,12 @@
-# We Transfer Assignment
+# Circular Spinner/ProgressBar
 
-Circular spinner react component. [Live Demo](https://confident-haibt-6ff93b.netlify.com/)
+Circular Spinner/ProgressBar React Component. [Live Demo](https://confident-haibt-6ff93b.netlify.com/)
 
 ## Description
 
-This assignment was built using `React + Typescript`, `React Hooks` for state management and `Jest + Enzyme` for testing.
+It's built using `React + Typescript`, `React Hooks` for state management and `Jest + Enzyme` for testing.
 
-For demo purposes, the main component `<Spinner />` is located in the `src/components/Spinner` folder. In case the component would be used in different projects, then it'll need be to published into an `npm package`.
+The main component `<Spinner />` is located in the `src/components/Spinner` folder.
 
 Please find a basic implementation of the `<Spinner />` component in the `src/views/App.tsx` file. It's simulating a loading time with a simple `setTimeout` in order to display the `<ProgressWidget />` component with the main functionality.
 
@@ -41,7 +41,7 @@ The component accepts the following props:
 |Name|Type|Deafult|Description
 |:--|:-----|:-----|:-----|
 |**`fill`**|number|10|Percentage % filled
-|**`showPercentage`**|boolean|false|Show
+|**`showPercentage`**|boolean|false|Show percentage label
 |**`radio`**|number|45|Radio of the spinner
 |**`color`**|string|'#409fff'|Primary color
 |**`backgroundColor`**|string|'#e8ebed'|Non-filled color
@@ -51,9 +51,8 @@ The component accepts the following props:
 ## Contact
 
 Alfredo Jimenez
-
 alfrejivi@gmail.com
-
+[alfrejivi.com](https://alfrejivi.com)
 [Linkedin](https://www.linkedin.com/in/alfrejivi/)
 
 ## Other info
